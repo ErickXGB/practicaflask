@@ -1,0 +1,10 @@
+[
+    {
+        "username": "user_alpha",
+        "role": "admin"
+    },
+    {
+        "username": "user_beta",
+        "role": "user"
+    }
+]

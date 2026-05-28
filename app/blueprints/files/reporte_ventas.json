@@ -1,0 +1,17 @@
+[
+    {
+        "product": "Laptop Asus",
+        "quantity": 2,
+        "total": 2400
+    },
+    {
+        "product": "Panel Solar",
+        "quantity": 4,
+        "total": 800
+    },
+    {
+        "product": "Batería LiFePO4",
+        "quantity": 1,
+        "total": 350
+    }
+]
